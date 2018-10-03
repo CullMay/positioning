@@ -1,0 +1,37 @@
+body {
+  background-color: #57dd9e;
+  padding:35px;
+}
+
+div.container {
+  width: 85%;
+  margin: auto;
+  border-color: #029372;
+  border-width: 5px;
+  border-style: solid;
+  background-color: white;
+  padding:20px 20px 0 20px;
+  position:relative;
+}
+
+footer {
+  background-color: #e7325b;
+  color: #fdc6d6;
+  padding: 7px 20px;
+  margin: 10px -20px 0 -20px
+}
+
+.fab {color:rgba(0,0,255,.5); font-size: 2em;padding-right:5px;
+}
+
+.show {display:block;}
+.hide {display:none;}
+
+h1{
+  position:relative; top:5px; left:500px;
+}
+.socialmedia{position:fixed; top:0px; right:10px;
+}
+img{
+  position:absolute; bottom:-45px; right:-25px;
+}
